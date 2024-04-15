@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development, Data Mining, and Java (OOP)☝️
 - 💞️ I’m looking to collaborate on ...💤
 - 📫 How to reach me ...😁
-- 😄 Pronouns: he/him, SIR
+- 😄 Pronouns: he/him,
 - ⚡ Fun fact: ...
 
 <!---
