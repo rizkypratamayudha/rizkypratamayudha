@@ -7,4 +7,6 @@
 - ⚡ Fun fact: ...
 
 Stat📈
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkypratamayudha&show_icons=true&theme=pink)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkypratamayudha&show_icons=true&theme=radical)
