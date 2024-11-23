@@ -9,6 +9,6 @@
 Stats📈
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkypratamayudha&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkypratamayudha&layout=compact&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkypratamayudha&show_icons=true&theme=radical)                ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkypratamayudha&layout=compact&show_icons=true&theme=radical)
 
 ![rizkypratamayudha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rizkypratamayudha&theme=radical&hide_border=false)
